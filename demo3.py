@@ -1,0 +1,1 @@
+#Tao ra 1 nhanh moi

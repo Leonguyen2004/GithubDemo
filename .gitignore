@@ -1,7 +1,7 @@
 #Bỏ qua tất cả các file có tên là config.json
 config.json
 
-#Bỏ qua file config.js trong thư mục src/core/settings
+#Bỏ qua file config.js trong thư mục src/core/settings từ gốc dự án
 /src/core/settings/config.js
 
 #Bỏ qua tất cả thư mục node_modules ở bất kỳ đâu trong dự án
